@@ -1,0 +1,12 @@
+Django==4.2.26
+requests==2.31.0
+pymongo==4.6.1
+dnspython==2.6.1
+urllib3==2.2.2
+
+# SSL warnings workaround for Cisco sandbox
+certifi==2024.2.2
+
+# Optional but recommended for Django environment stability
+charset-normalizer==3.3.2
+idna==3.7
